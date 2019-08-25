@@ -35,7 +35,7 @@ There are a ton of resources out there to learn data analytics, machine learning
 + [Udacity](https://www.udacity.com/): Of all the online interactive education platforms that teach technical skills, I find Udacity to be the far and away best. While many models seek to scale up the "college class" idea, Udacity built a platform that more simulates a personal tutor. You are required to actually answer questions and program solutions to be able to move ahead, and you can take as much time or as little as needed until you master a concept. Browse either their nanodegree concepts (which have paid elements), or look into their course catalog directly to learn anything you want to. If you are a little rusty on statistics, I would highly recommend their statistics courses; as well as their Machine Learning units.
 
 
-### Timeline & Course Outline (TODO)
+### Timeline & Course Outline
 <table>
     <thead>
         <tr>
@@ -50,20 +50,33 @@ There are a ton of resources out there to learn data analytics, machine learning
             <th colspan="3" align="left">Week 1: Getting Started with SQL</th>
         </tr>
         <tr>
-            <td>Mon</td>
+            <td>Tue</td>
             <td>Slack, GitHub Repo, Setting Up SQLite, Intro to SQL/Using the SQLite Browser</td>
             <td>SELECT, FROM, WHERE clauses</td>
         </tr>
         <tr>
-            <td>Wed</td>
+            <td>Thr</td>
             <td>GROUP BY clause, INNER JOIN operations</td>
             <td>OUTER JOIN operations, CASE, Sub-Queries</td>
         </tr>
+        <!-- WEEK 2 -->
+        <tr>
+            <th colspan="3" align="left">Week 2: Starting Python</th>
+        </tr>
+        <tr>
+            <td>Tue</td>
+            <td>Homework Review, SQL Recitation, CTEs, CRUD Operations</td>
+            <td>Installing Python, Using Jupyter, Basic Python</td>
+        </tr>
+        <tr>
+            <td>Thr</td>
+            <td>Python data types, slicing, extracting</td>
+            <td>functions/methods, thinking in a programmatic way</td>
+        </tr>
         <tr>
             <td>Homework</td>
-            <td colspan="2" align="left">Answering Questions with SQL</td>
+            <td colspan="2" align="left">Answering Questions with Python</td>
         </tr>
-        <!-- WEEK 2 (TODO) -->
         <!-- WEEK 3 (TODO) -->
         <!-- WEEK 4 (TODO) -->
         <!-- WEEK 5 (TODO) -->
