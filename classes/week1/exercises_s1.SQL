@@ -33,6 +33,8 @@ but less than 51?
 
 /*
 Produce a list of employees by last name, id, and email address only; where
+none are from Kenya or Canada, but all are female managers. Sort the list by
+each person's email address alphabetically.
 */
 
 
