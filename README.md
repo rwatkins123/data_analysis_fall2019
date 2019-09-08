@@ -57,7 +57,7 @@ There are a ton of resources out there to learn data analytics, machine learning
         <tr>
             <td>Thr</td>
             <td>GROUP BY clause, INNER JOIN operations</td>
-            <td>OUTER JOIN operations, CASE, Sub-Queries</td>
+            <td>JOIN operations</td>
         </tr>
         <!-- WEEK 2 -->
         <tr>
@@ -65,7 +65,7 @@ There are a ton of resources out there to learn data analytics, machine learning
         </tr>
         <tr>
             <td>Tue</td>
-            <td>Homework Review, SQL Recitation, CTEs, CRUD Operations</td>
+            <td>Sub-Queries, CTEs, Answering Questions with SQL</td>
             <td>Installing Python, Using Jupyter, Basic Python</td>
         </tr>
         <tr>
