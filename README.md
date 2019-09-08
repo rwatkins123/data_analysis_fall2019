@@ -70,12 +70,8 @@ There are a ton of resources out there to learn data analytics, machine learning
         </tr>
         <tr>
             <td>Thr</td>
-            <td>Python data types, slicing, extracting</td>
-            <td>functions/methods, thinking in a programmatic way</td>
-        </tr>
-        <tr>
-            <td>Homework</td>
-            <td colspan="2" align="left">Answering Questions with Python</td>
+            <td>Python data types, slicing/indexing, control flow</td>
+            <td>looping, functions, thinking in a programmatic way</td>
         </tr>
         <!-- WEEK 3 (TODO) -->
         <!-- WEEK 4 (TODO) -->
