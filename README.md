@@ -46,9 +46,7 @@ There are a ton of resources out there to learn data analytics, machine learning
     </thead>
     <tbody>
         <!-- WEEK 1 -->
-        <tr>
-            <th colspan="3" align="left">Week 1: Getting Started with SQL</th>
-        </tr>
+        <tr><th colspan="3" align="left">Week 1: Getting Started with SQL</th></tr>
         <tr>
             <td>Tue</td>
             <td>Slack, GitHub Repo, Setting Up SQLite, Intro to SQL/Using the SQLite Browser</td>
@@ -60,9 +58,7 @@ There are a ton of resources out there to learn data analytics, machine learning
             <td>JOIN operations</td>
         </tr>
         <!-- WEEK 2 -->
-        <tr>
-            <th colspan="3" align="left">Week 2: Starting Python</th>
-        </tr>
+        <tr><th colspan="3" align="left">Week 2: Starting Python</th></tr>
         <tr>
             <td>Tue</td>
             <td>Sub-Queries, CTEs, Answering Questions with SQL</td>
@@ -74,11 +70,77 @@ There are a ton of resources out there to learn data analytics, machine learning
             <td>looping, functions, thinking in a programmatic way</td>
         </tr>
         <!-- WEEK 3 (TODO) -->
+        <tr><th colspan="3" align="left">Week 3: More Python</th></tr>
+        <tr>
+            <td>Tue</td>
+            <td>Building functionality with Python operations</td>
+            <td>Functions, Code re-use</td>
+        </tr>
+        <tr>
+            <td>Thr</td>
+            <td>Importing Libraries, Loading Data, Dataframes</td>
+            <td>Beginning Dataframe operations</td>
+        </tr>
         <!-- WEEK 4 (TODO) -->
+        <tr><th colspan="3" align="left">Week 4: Breaking Problems Down</th></tr>
+        <!-- <tr>
+            <td>Tue</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Thr</td>
+            <td></td>
+            <td></td>
+        </tr> -->
         <!-- WEEK 5 (TODO) -->
+        <tr><th colspan="3" align="left">Week 5: First Data Analysis Project</th></tr>
+        <!-- <tr>
+            <td>Tue</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Thr</td>
+            <td></td>
+            <td></td>
+        </tr> -->
         <!-- WEEK 6 (TODO) -->
+        <tr><th colspan="3" align="left">Week 6: Beginning Modeling & Integrating SQL</th></tr>
+        <!-- <tr>
+            <td>Tue</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Thr</td>
+            <td></td>
+            <td></td>
+        </tr> -->
         <!-- WEEK 7 (TODO) -->
+        <tr><th colspan="3" align="left">Week 7: Statistical Modeling</th></tr>
+        <!-- <tr>
+            <td>Tue</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Thr</td>
+            <td></td>
+            <td></td>
+        </tr> -->
         <!-- WEEK 8 (TODO) -->
+        <tr><th colspan="3" align="left">Week 8: The Big Project</th></tr>
+        <!-- <tr>
+            <td>Tue</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Thr</td>
+            <td></td>
+            <td></td>
+        </tr> -->
     </tbody>
 </table>
 
