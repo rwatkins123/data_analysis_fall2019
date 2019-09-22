@@ -69,7 +69,7 @@ There are a ton of resources out there to learn data analytics, machine learning
             <td>Python data types, slicing/indexing, control flow</td>
             <td>looping, functions, thinking in a programmatic way</td>
         </tr>
-        <!-- WEEK 3 (TODO) -->
+        <!-- WEEK 3 -->
         <tr><th colspan="3" align="left">Week 3: More Python</th></tr>
         <tr>
             <td>Tue</td>
@@ -81,18 +81,18 @@ There are a ton of resources out there to learn data analytics, machine learning
             <td>Importing Libraries, Loading Data, Dataframes</td>
             <td>Beginning Dataframe operations</td>
         </tr>
-        <!-- WEEK 4 (TODO) -->
+        <!-- WEEK 4  -->
         <tr><th colspan="3" align="left">Week 4: Breaking Problems Down</th></tr>
-        <!-- <tr>
+        <tr>
             <td>Tue</td>
-            <td></td>
-            <td></td>
+            <td>Loading Data from files: CSV, JSON, SQLite</td>
+            <td>Compute New Columns, Aggregations</td>
         </tr>
         <tr>
             <td>Thr</td>
-            <td></td>
-            <td></td>
-        </tr> -->
+            <td>Merging, Using Merges to solve problems</td>
+            <td>Solving Problems Systematically</td>
+        </tr>
         <!-- WEEK 5 (TODO) -->
         <tr><th colspan="3" align="left">Week 5: First Data Analysis Project</th></tr>
         <!-- <tr>
